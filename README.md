@@ -137,13 +137,16 @@ For Resort Hotel, the cancellation rate seems quite stable around the thirties t
 For City Hotel, the highest cancellation rate comes from 2 months of lead time (reaches 88.76%) and the lowest is a month (11.24%). It indicates that 1 month is an optimal lead time for city hotels.
 <br>  
 
-# Business Recommedantion  
-From data analysis, we found several things that need to be improved. So, here are several business recommendations that can be made to improve the performance of the hotel business :  
-**1.** It is necessary to carry out further analysis of the **cancellation rate of City Hotels**.  
-**2.** **Collaborate with local recreation or tourism parties** to provide promotions for staying at hotels for customers who travel  
-**3.** For high cancellation rates, it is necessary to take precautions by **setting a down payment for customers who will stay more than 1 week or even 1 month** to prevent further profit losses.  
+# Business Recommendation  
+From data analysis, we found several things that need to be improved. So, here are several business recommendations that can be made to improve the performance of the hotel business :   
+<br>
+**1.** It is necessary to carry out further analysis of the **cancellation rate of City Hotels**.<br>
+**2.** **Collaborate with local recreation or tourism parties** to provide promotions for staying at hotels for customers who travel  <br>
+**3.** For high cancellation rates, it is necessary to take precautions by **setting a down payment for customers who will stay more than 1 week or even 1 month** to prevent further profit losses.  <br>
 **4.** **Eliminate lead times of more than 4 months** because basically, lead times of more than 1 month have a high cancellation rate. Suggest to customers to book a hotel about 1 or 2 weeks before staying. Then, if the distance between stays is still long, it is recommended to book about 1 month in advance. Then, if they book several months before their stay we need to do an analysis and ask why, because the customers could come from tourists or public figures or business teams who really have certain needs.  
-  
+<br>  
+
+Thank You!
 
  
 
