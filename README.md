@@ -84,6 +84,7 @@ The graph shows the hotel booking trend from City Hotel and Resort Hotel for thr
 
 ## 2. Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates  
 <br>
+
 **a.** <br>
 <img width="750" alt="grup-stayduration" src="https://github.com/Yunanouv/Hotel-Business-Analysis/assets/146415555/7744167a-ef34-4687-b129-4c1a40a1d38a">
 <br> 
@@ -103,7 +104,7 @@ As we can see, the frequencies are too unequal, only group 1 is dominant.
 <img width="750" alt="grup-stayduration-cancelrates" src="https://github.com/Yunanouv/Hotel-Business-Analysis/assets/146415555/ec98ed95-5748-4c64-afc5-de37fa9cc256">
 <br> 
 From the trends, some observations are : 
-The least canceled bookings were on around 1-7 days. The good thing is that this is the group with the most frequent stays but the cancellation rate is also the smallest.
+The least canceled bookings were on around 1-7 days. The good thing is that this is the group with the most frequent stays and the cancellation rate is also the smallest.
 Customers who stayed around 8-14 days have the highest cancellation rates. 
 The cancellation rate for customers who stayed more than a month is also high, need to be aware of junk leads.  
 <br>  
@@ -137,8 +138,11 @@ For City Hotel, the highest cancellation rate comes from 2 months of lead time (
 <br>  
 
 # Business Recommedantion  
-
-
+From data analysis, we found several things that need to be improved. So, here are several business recommendations that can be made to improve the performance of the hotel business :  
+**1.** It is necessary to carry out further analysis of the **cancellation rate of City Hotels**.  
+**2.** **Collaborate with local recreation or tourism parties** to provide promotions for staying at hotels for customers who travel  
+**3.** For high cancellation rates, it is necessary to take precautions by **setting a down payment for customers who will stay more than 1 week or even 1 month** to prevent further profit losses.  
+**4.** **Eliminate lead times of more than 4 months** because basically, lead times of more than 1 month have a high cancellation rate. Suggest to customers to book a hotel about 1 or 2 weeks before staying. Then, if the distance between stays is still long, it is recommended to book about 1 month in advance. Then, if they book several months before their stay we need to do an analysis and ask why, because the customers could come from tourists or public figures or business teams who really have certain needs.  
   
 
  
